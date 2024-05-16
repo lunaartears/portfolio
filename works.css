@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(167, 121, 6);
+    font-family: fantasy;
+    color: bisque
+}
+.works {
+    margin: 50px;
+}
+.container1 {
+    display: flex;
+    justify-content: space-around;
+}
+.container-2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.sarah-img {
+    height: 300px;
+    border-radius: 300px;
+    padding: 75px;
+}
